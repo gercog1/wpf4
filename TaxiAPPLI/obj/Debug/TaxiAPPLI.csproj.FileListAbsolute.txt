@@ -1,0 +1,15 @@
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\bin\Debug\TaxiAPPLI.exe.config
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\bin\Debug\TaxiAPPLI.exe
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\bin\Debug\TaxiAPPLI.pdb
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.csprojResolveAssemblyReference.cache
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\MainWindow.g.cs
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\App.g.cs
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI_MarkupCompile.cache
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI_MarkupCompile.lref
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\MainWindow.baml
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.g.resources
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.Properties.Resources.resources
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.csproj.GenerateResource.Cache
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.csproj.CoreCompileInputs.cache
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.exe
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAPPLI\obj\Debug\TaxiAPPLI.pdb

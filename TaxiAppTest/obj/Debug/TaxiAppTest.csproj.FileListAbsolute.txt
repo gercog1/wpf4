@@ -1,0 +1,16 @@
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\TaxiAppTest.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\TaxiAppTest.pdb
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\TaxiAPPLI.exe
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\TaxiAPPLI.pdb
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\TaxiAPPLI.exe.config
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\obj\Debug\TaxiAppTest.csprojResolveAssemblyReference.cache
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\obj\Debug\TaxiAppTest.csproj.CoreCompileInputs.cache
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\obj\Debug\TaxiAppTest.dll
+C:\Users\gercog\source\repos\TaxiAPPLI\TaxiAppTest\obj\Debug\TaxiAppTest.pdb
